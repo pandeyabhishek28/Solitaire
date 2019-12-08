@@ -1,0 +1,87 @@
+C:\Users\abhishekp\source\repos\SortAnArray\Solitaire\bin\Debug\Solitaire.exe.config
+C:\Users\abhishekp\source\repos\SortAnArray\Solitaire\bin\Debug\Solitaire.exe
+C:\Users\abhishekp\source\repos\SortAnArray\Solitaire\bin\Debug\Solitaire.pdb
+C:\Users\abhishekp\source\repos\SortAnArray\Solitaire\obj\Debug\Solitaire.csprojAssemblyReference.cache
+C:\Users\abhishekp\source\repos\SortAnArray\Solitaire\obj\Debug\MainWindow.g.cs
+C:\Users\abhishekp\source\repos\SortAnArray\Solitaire\obj\Debug\App.g.cs
+C:\Users\abhishekp\source\repos\SortAnArray\Solitaire\obj\Debug\Solitaire_MarkupCompile.cache
+C:\Users\abhishekp\source\repos\SortAnArray\Solitaire\obj\Debug\Solitaire_MarkupCompile.lref
+C:\Users\abhishekp\source\repos\SortAnArray\Solitaire\obj\Debug\MainWindow.baml
+C:\Users\abhishekp\source\repos\SortAnArray\Solitaire\obj\Debug\Solitaire.g.resources
+C:\Users\abhishekp\source\repos\SortAnArray\Solitaire\obj\Debug\Solitaire.Properties.Resources.resources
+C:\Users\abhishekp\source\repos\SortAnArray\Solitaire\obj\Debug\Solitaire.csproj.GenerateResource.cache
+C:\Users\abhishekp\source\repos\SortAnArray\Solitaire\obj\Debug\Solitaire.csproj.CoreCompileInputs.cache
+C:\Users\abhishekp\source\repos\SortAnArray\Solitaire\obj\Debug\Solitaire.exe
+C:\Users\abhishekp\source\repos\SortAnArray\Solitaire\obj\Debug\Solitaire.pdb
+C:\Users\abhishekp\source\repos\SortAnArray\Solitaire\bin\Debug\CommonServiceLocator.dll
+C:\Users\abhishekp\source\repos\SortAnArray\Solitaire\obj\Debug\Solitaire.csproj.CopyComplete
+C:\Users\abhishekp\source\repos\SortAnArray\Solitaire\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\abhishekp\source\repos\SortAnArray\Solitaire\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\abhishekp\source\repos\SortAnArray\Solitaire\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\abhishekp\source\repos\SortAnArray\Solitaire\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\abhishekp\source\repos\SortAnArray\Solitaire\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\abhishekp\source\repos\SortAnArray\Solitaire\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\abhishekp\source\repos\SortAnArray\Solitaire\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\abhishekp\source\repos\SortAnArray\Solitaire\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\abhishekp\source\repos\SortAnArray\Solitaire\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\abhishekp\source\repos\SortAnArray\Solitaire\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\abhishekp\source\repos\SortAnArray\Solitaire\bin\Debug\Cards.Dll
+C:\Users\abhishekp\source\repos\SortAnArray\Solitaire\obj\Debug\Solitaire_Content.g.cs
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Solitaire\bin\Debug\Cards.Dll
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Solitaire\bin\Debug\Solitaire.exe.config
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Solitaire\bin\Debug\Solitaire.exe
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Solitaire\bin\Debug\Solitaire.pdb
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Solitaire\bin\Debug\CommonServiceLocator.dll
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Solitaire\bin\Debug\GalaSoft.MvvmLight.dll
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Solitaire\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Solitaire\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Solitaire\bin\Debug\System.Windows.Interactivity.dll
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Solitaire\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Solitaire\bin\Debug\GalaSoft.MvvmLight.xml
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Solitaire\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Solitaire\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Solitaire\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Solitaire\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Solitaire\obj\Debug\Solitaire.csprojAssemblyReference.cache
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Solitaire\obj\Debug\MainWindow.g.cs
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Solitaire\obj\Debug\App.g.cs
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Solitaire\obj\Debug\Solitaire_Content.g.cs
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Solitaire\obj\Debug\Solitaire_MarkupCompile.cache
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Solitaire\obj\Debug\Solitaire_MarkupCompile.lref
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Solitaire\obj\Debug\MainWindow.baml
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Solitaire\obj\Debug\Solitaire.g.resources
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Solitaire\obj\Debug\Solitaire.Properties.Resources.resources
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Solitaire\obj\Debug\Solitaire.csproj.GenerateResource.cache
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Solitaire\obj\Debug\Solitaire.csproj.CoreCompileInputs.cache
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Solitaire\obj\Debug\Solitaire.csproj.CopyComplete
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Solitaire\obj\Debug\Solitaire.exe
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Solitaire\obj\Debug\Solitaire.pdb
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Solitaire\bin\Debug\Cards.Dll
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Solitaire\bin\Debug\Solitaire.exe.config
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Solitaire\bin\Debug\Solitaire.exe
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Solitaire\bin\Debug\Solitaire.pdb
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Solitaire\bin\Debug\CommonServiceLocator.dll
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Solitaire\bin\Debug\GalaSoft.MvvmLight.dll
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Solitaire\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Solitaire\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Solitaire\bin\Debug\System.Windows.Interactivity.dll
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Solitaire\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Solitaire\bin\Debug\GalaSoft.MvvmLight.xml
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Solitaire\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Solitaire\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Solitaire\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Solitaire\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Solitaire\obj\Debug\Solitaire.csprojAssemblyReference.cache
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Solitaire\obj\Debug\MainWindow.g.cs
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Solitaire\obj\Debug\App.g.cs
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Solitaire\obj\Debug\Solitaire_Content.g.cs
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Solitaire\obj\Debug\Solitaire_MarkupCompile.cache
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Solitaire\obj\Debug\Solitaire_MarkupCompile.lref
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Solitaire\obj\Debug\MainWindow.baml
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Solitaire\obj\Debug\Solitaire.g.resources
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Solitaire\obj\Debug\Solitaire.Properties.Resources.resources
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Solitaire\obj\Debug\Solitaire.csproj.GenerateResource.cache
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Solitaire\obj\Debug\Solitaire.csproj.CoreCompileInputs.cache
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Solitaire\obj\Debug\Solitaire.csproj.CopyComplete
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Solitaire\obj\Debug\Solitaire.exe
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Solitaire\obj\Debug\Solitaire.pdb
